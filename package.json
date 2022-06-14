@@ -10,5 +10,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.7.3"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
 }
